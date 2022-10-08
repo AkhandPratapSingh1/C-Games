@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "z2nq6DFVAeMPtH5UalYoH7mT0R15WmvKAsfGWzCNdPbWjqhMg31ypRrqZsxcUvv2XaAyuDLOc87QgLkDJECgDQ==",
+  "success": true,
+  "projectFilePath": "D:\\Pranjal Twitter\\Collage_Projects\\Collage_Projects\\CODING\\C#\\Tic_Tac\\Tic_Tac\\Tic_Tac\\Tic_Tac.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
